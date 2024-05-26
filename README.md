@@ -1,5 +1,11 @@
 # AirStrike
 Game Code by Unity C#
+
+
+Link Preview & DownLoad(GG Driver): https://drive.google.com/drive/folders/1GZFahCTGD0r_J9g00mGuqlF8RMJ5f74w?usp=drive_link
+
+
+
 Mô tả: 
 Gameplay gồm có :
 Player di chuyển được trên màn hình, bắn ra đạn với chu kì 0.1s sẽ sinh ra 1 viên đạn
