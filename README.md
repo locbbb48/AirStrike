@@ -1,6 +1,6 @@
 # AirStrike
-Game Code by Unity C#
-Assets and game content as described by WEUP GAME STUDIO
+Game Code by Unity C#.
+Assets and game content as described by WEUP GAME STUDIO.
 
 Link Preview & DownLoad(GG Driver): https://drive.google.com/drive/folders/1GZFahCTGD0r_J9g00mGuqlF8RMJ5f74w?usp=drive_link
 
